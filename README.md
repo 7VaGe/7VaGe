@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7VaGe
 - 👀 I’m interested in fullstack programming
 - 🌱 I’m currently learning Angular and TypeScript lang for frontend stuff
-- 📫 How to reach me send a e-mail to ciaraphone95@gmail.com
+- 📫 How to reach me? send an e-mail to ciaraphone95@gmail.com
 
 <!---
 7VaGe/7VaGe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
