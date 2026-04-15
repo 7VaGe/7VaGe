@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7VaGe
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning Angular and TypeScript lang for frontend
+- 🌱 I’m currently learning LLMs and AI system
 - 📫 How to reach me? send an e-mail to ciaraphone95@gmail.com
 
 <!---
